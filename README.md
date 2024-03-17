@@ -6,6 +6,7 @@ testing with CENTOS7 & UBUNTU20.4
 
     chmod +x download_service.sh
 
+fil /etc/systemd/system/download_service.service with:
 
     [Unit]
     Description=Download Service
